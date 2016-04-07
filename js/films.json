@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Men In Black",
+		"synopsis": "When the time goes done, only two men can save the world. The entire universe is in the hands on a Young Black guy and his White smile-cutted partner.",
+		"price": 9000,
+		"releaseDate": "1985-04-21",
+		"isAvailable": false,
+		"src": "img/Men_in_Black_918948a.jpg",
+		"actors": [
+			{
+				"name": "Jones",
+				"firstname": "Tommy Lee"
+			},
+			{
+				"name": "Smith",
+				"firstname": "Will"	
+			}
+		]
+	},
+	{
+		"title": "Man of Steel",
+		"synopsis": "Yeah oh God it's Superman",
+		"price": 800,
+		"releaseDate": "2013-07-20",
+		"isAvailable": true,
+		"src": "img/Superman-Man-of-Steel-Fortress-Art.jpg",
+		"actors" : [
+			{
+				"name": "Cavill",
+				"firstname": "Henry"
+			},
+			{
+				"name": "Adams",
+				"firstname": "Amy"
+			}
+		]
+	}
+]
